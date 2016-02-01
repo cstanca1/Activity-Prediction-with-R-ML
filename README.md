@@ -18,9 +18,11 @@ People regularly quantify how much of a particular activity they do, but they ra
 
 ### Data
 
-Training data: https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
-Test data: https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
-The data for this project came from: http://groupware.les.inf.puc-rio.br/har
+```
+# Training data: https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
+# Test data: https://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv
+# The data for this project came from: http://groupware.les.inf.puc-rio.br/har
+```
 
 ### Objective
 
