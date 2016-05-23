@@ -21,5 +21,5 @@ The objective of this example was to used the data collected during the exercise
 
 ### Output
 
-A report describing how the model was built (PAW.html), how cross validation was used, expected out of sample error is, and the choices made. The R markdown (PAW.Rmd) and the compiled HTML report (PAW.md) describing the analysis were posted to the current Github repo.
+PAW4.html describes how the model was built, how cross validation was used, expected out of sample error is, and the choices made. The R markdown (PAW4.Rmd) and the compiled HTML report (PAW4.md) describing the analysis were posted to the current Github repo.
 
