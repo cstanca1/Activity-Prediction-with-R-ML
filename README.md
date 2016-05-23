@@ -1,4 +1,4 @@
-## Personal Activity and Machine Learning
+Activity Prediction with R Machine Learning
 
 ### Introduction
 
