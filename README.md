@@ -1,4 +1,4 @@
-Activity Prediction with R Machine Learning
+#Activity Prediction with R Machine Learning
 
 ### Introduction
 
